@@ -20,7 +20,6 @@ unimined.minecraft {
         mixinRemap {
             enableBaseMixin()
             enableMixinExtra()
-            disableRefmap()
         }
     }
 }
