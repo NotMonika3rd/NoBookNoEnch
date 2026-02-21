@@ -1,4 +1,4 @@
-package rip.sayori.modid.mixin;
+package rip.sayori.nbne.mixin;
 
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;

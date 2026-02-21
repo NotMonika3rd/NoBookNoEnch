@@ -12,7 +12,7 @@ unimined.minecraft {
     cleanroom {
         loader("0.4.4-alpha")
         runs.all {
-            systemProperty("crl.dev.mixin", "modid.mixin.json")
+            systemProperty("crl.dev.mixin", "nbne.mixin.json")
         }
     }
     defaultRemapJar = false

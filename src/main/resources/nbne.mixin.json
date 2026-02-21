@@ -1,12 +1,14 @@
 {
   "required": true,
-  "package": "rip.sayori.modid.mixin",
+  "package": "rip.sayori.nbne.mixin",
   "compatibilityLevel": "JAVA_21",
   "target": "@env(DEFAULT)",
   "client": [
     "MinecraftMixin"
   ],
-  "mixins": [],
+  "mixins": [
+    "ContainerEnchantmentInnerMixin"
+  ],
   "server": [],
   "setSourceFile": true,
   "minVersion": "0.8.7"
